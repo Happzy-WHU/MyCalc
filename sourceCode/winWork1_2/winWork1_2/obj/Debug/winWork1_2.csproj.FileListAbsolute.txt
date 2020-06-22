@@ -1,0 +1,13 @@
+D:\C#编程\winWork1_2\winWork1_2\bin\Debug\winWork1_2.exe.config
+D:\C#编程\winWork1_2\winWork1_2\bin\Debug\winWork1_2.exe
+D:\C#编程\winWork1_2\winWork1_2\bin\Debug\winWork1_2.pdb
+D:\C#编程\winWork1_2\winWork1_2\obj\Debug\winWork1_2.csprojAssemblyReference.cache
+D:\C#编程\winWork1_2\winWork1_2\obj\Debug\winWork1_2.Form3.resources
+D:\C#编程\winWork1_2\winWork1_2\obj\Debug\winWork1_2.Properties.Resources.resources
+D:\C#编程\winWork1_2\winWork1_2\obj\Debug\winWork1_2.csproj.GenerateResource.cache
+D:\C#编程\winWork1_2\winWork1_2\obj\Debug\winWork1_2.exe
+D:\C#编程\winWork1_2\winWork1_2\obj\Debug\winWork1_2.pdb
+D:\C#编程\winWork1_2\winWork1_2\obj\Debug\winWork1_2.BForm.resources
+D:\C#编程\winWork1_2\winWork1_2\obj\Debug\winWork1_2.DForm.resources
+D:\C#编程\winWork1_2\winWork1_2\obj\Debug\winWork1_2.HForm.resources
+D:\C#编程\winWork1_2\winWork1_2\obj\Debug\winWork1_2.OForm.resources

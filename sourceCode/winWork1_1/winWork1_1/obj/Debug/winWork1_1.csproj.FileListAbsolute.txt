@@ -1,0 +1,9 @@
+D:\C#编程\winWork1_1\winWork1_1\obj\Debug\winWork1_1.Form1.resources
+D:\C#编程\winWork1_1\winWork1_1\obj\Debug\winWork1_1.Properties.Resources.resources
+D:\C#编程\winWork1_1\winWork1_1\obj\Debug\winWork1_1.csproj.GenerateResource.cache
+D:\C#编程\winWork1_1\winWork1_1\bin\Debug\winWork1_1.pdb
+D:\C#编程\winWork1_1\winWork1_1\obj\Debug\winWork1_1.pdb
+D:\C#编程\winWork1_1\winWork1_1\bin\Debug\winWork1_1.dll.config
+D:\C#编程\winWork1_1\winWork1_1\bin\Debug\winWork1_1.dll
+D:\C#编程\winWork1_1\winWork1_1\obj\Debug\winWork1_1.csprojAssemblyReference.cache
+D:\C#编程\winWork1_1\winWork1_1\obj\Debug\winWork1_1.dll
